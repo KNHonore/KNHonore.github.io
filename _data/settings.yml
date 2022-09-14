@@ -42,7 +42,7 @@ social:
   - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-twitter", link: "https://twitter.com/KhonoComputes" }
 
 #-------------------------------
 # About (Section and Page)

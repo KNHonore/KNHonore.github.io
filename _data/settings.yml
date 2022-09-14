@@ -6,9 +6,9 @@ title: Kross
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: khiera.n.honore@gmail.com
+phone: +215 391 3103
+address: 1017 W Nedro Ave, Philadelphia, PA 19141
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hey there! I’m <br> Khiera, <br> Welcome!
 
 social:
   - { icon: "ti-facebook", link: "#" }

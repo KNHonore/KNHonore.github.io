@@ -113,46 +113,35 @@ education:
       date: "2006",
       organization: "Masassusets Institute of Technology",
     }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
-
 #-------------------------------
 # Services Section
 
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: Web Design,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Data Analytics,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Coding,
       icon: ti-panel,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
     }
-
+  - {
+      name: Graphic Design and Illustration,
+      icon: ti-panel,
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: ,# Add true to select section
+    }
 #-------------------------------
 # Portfolio (Section and Page)
 
@@ -175,8 +164,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
+  - { title: "WEB DESIGN", type: "design" }
+  - { title: "DATA VISUALIZATION", type: "data" }
+  - { title: "CODING", type: "coding" }
   - { title: "ILLUSTRATION", type: "illustration" }
 
 portfolio-items:
@@ -233,4 +223,4 @@ portfolio-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: khiera.n.honore@gmail.com

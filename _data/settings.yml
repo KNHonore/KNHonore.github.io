@@ -2,8 +2,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo:
+title: Khiera Honore - Home
+logo: 
 author: themefisher
 description: this is meta description
 email: khiera.n.honore@gmail.com
@@ -12,9 +12,9 @@ address: 1017 W Nedro Ave, Philadelphia, PA 19141
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: Khiera Honore - About, link: "/about" }
+  - { name: Khiera Honore - Portfolio, link: "/portfolio" }
+  - { name: Khiera Honore - Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section

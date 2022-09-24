@@ -59,10 +59,10 @@ blurb-btn-name: know more
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Front End Web Design, color: "#fdb157", value: "60%" }
+  - { name: Data Analysis, color: "#9473e6", value: "20%" }
+  - { name: C# and C++, color: "#bdecf6", value: "20%" }
+  - { name: Copywriting, color: "#ffbcaa", value: "40%" }
 
 #-------------------------------
 # Exprerience Section
@@ -70,22 +70,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: IT Support Technician,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Oct 2014 - Dec 2020",
+      organization: "THANKFUL LEARNING CENTER",
     }
   - {
-      name: UX & UI Designer,
+      name: Energy Assistance Worker,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Sep 2018 - Sep 2021",
+      organization: "COMMONWEALTH OF PA",
     }
   - {
-      name: Senior UI Designer,
+      name: Contact Representative,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Nov 2021 - Present",
+      organization: "SOCIAL SECURITY ADMINISTRATION",
     }
 
 #-------------------------------

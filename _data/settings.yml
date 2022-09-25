@@ -47,7 +47,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I am an outcome-driven Customer Experience/IT Associate and Web Designer who is recognized for 7 years of engaging with users, building communities, and creating unique and eye-catching web-based designs.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -94,9 +94,9 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Bachelors in Computer Science w. Concentration in Data Analysis,
+      date: "In Progress, Expected Grad Date 2024",
+      organization: "Southern New Hampshire University",
     }
 #-------------------------------
 # Services Section
